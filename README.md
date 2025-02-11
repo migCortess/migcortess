@@ -27,13 +27,6 @@ I am a **Full Stack Developer and Innovation Coordinator** with solid experience
 - **Python**: Experience with Django, Flask, and Django REST Framework for building web applications.
 - **Mermaid & Obsidian**: Creating automatic Gantt charts and flow diagrams for project planning and visualization.
 - **E-learning**: Developing platforms for course creation, supporting SCORM, assessments, and tracking student progress.
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/miguel-cortes-246a57232/)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)
-- [Twitter]([your-twitter-url](https://x.com/netzcortess))  ![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)
-- [GitHub]([https://github.com/your-github](https://github.com/migCortess))  ![GitHub](https://img.shields.io/badge/GitHub-black?style=social&logo=github)
-
 ---
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@migcortes/30-nites-of-code)  
