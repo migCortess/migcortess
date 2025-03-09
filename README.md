@@ -28,6 +28,3 @@ I am a **Full Stack Developer and Innovation Coordinator** with solid experience
 - **Mermaid & Obsidian**: Creating automatic Gantt charts and flow diagrams for project planning and visualization.
 - **E-learning**: Developing platforms for course creation, supporting SCORM, assessments, and tracking student progress.
 ---
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@migcortes/30-nites-of-code)  
-  ![@migcortes #30NitesOfCode](https://www.codedex.io/api/petStatus?user=migcortes)
